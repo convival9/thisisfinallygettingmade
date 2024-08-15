@@ -1,0 +1,19 @@
+(supertux-sprite
+ (action
+  (name "left")
+  (hitbox 1 0 45 41)
+  (images "fluffy-0.png"
+          "fluffy-1.png"
+          "fluffy-2.png"
+          "fluffy-3.png"))
+
+ (action
+  (name "right")
+  (hitbox 1 0 45 41)
+  (mirror-action "left"))
+ 
+ (action
+  (name "squished")
+  (hitbox 1 -19 45 41)
+  (images "fluffy-squished.png"))
+)
