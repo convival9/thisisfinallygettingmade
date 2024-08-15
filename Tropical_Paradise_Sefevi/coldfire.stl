@@ -1,6 +1,6 @@
 (supertux-level
   (version 2)
-  (name (_ "Cold Fire"))
+  (name (_ "Fire And Clouds"))
   (author "Convival")
   (tileset "/images/tiles2.strf")
   (license "CC-BY-SA 4.0 International")
@@ -172,9 +172,6 @@
       (y 736)
       (direction "left")
     )
-    (particles-snow
-      (z-pos -200)
-    )
     (particles-clouds
       (z-pos -200)
     )
@@ -198,7 +195,7 @@
     )
     (livefire
       (sprite "images/creatures/livefire/livefire.sprite")
-      (x 7387.48877)
+      (x 7387.487793)
       (y 930.2540283)
       (direction "left")
     )
