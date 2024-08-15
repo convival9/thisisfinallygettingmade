@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "Tropical Paradise 0.5.1"))
+  (description (_ ""))
+  (levelset #f)
+  (hide-from-contribs #f)
+)
