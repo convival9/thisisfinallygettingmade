@@ -68,7 +68,7 @@
       (type "point")
       (x 928)
       (y 512)
-      (direction "down")
+      (direction "left")
     )
     (tilemap
       (draw-target "normal")
@@ -295,12 +295,6 @@
       (sprite "images/creatures/walkingleaf/walkingleaf.sprite")
       (x 2112)
       (y 448)
-      (direction "left")
-    )
-    (spiky
-      (sprite "/images/creatures/tornado/tornado.sprite")
-      (x 832)
-      (y 928)
       (direction "left")
     )
   )
